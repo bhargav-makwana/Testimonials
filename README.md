@@ -10,5 +10,3 @@ The Dashboard includes following key metrics / KPIs :
 3. Income Statement (Income/Expense) (Waterfall chart)
 4. Petrol vs Diesel Sold in each months (Customized chart)
 5. Service Contract with New Cars divided in two quarters Q1 & Q2 (Gauge chart)
-
-![Image](https://media-exp1.licdn.com/dms/image/C4E22AQHXDCUJRJcMWg/feedshare-shrink_2048_1536/0/1639346724852?e=1642032000&v=beta&t=MZndIG4LGRLTIGa07VsbVd0WwhvwAuh8BjxMiaZEDOI)
